@@ -1,0 +1,39 @@
+CACHE MANIFEST
+
+#06289281dde34af682e7d63ef5b8d1f0 version undefined
+
+CACHE:
+resources/audio/Bir Poop Splat-SoundBible.com-157212383.mp3
+resources/audio/ding.mp3
+resources/audio/fart.mp3
+resources/audio/groovn.mp3
+resources/audio/groovn2.m4a
+resources/audio/groovn3.mp3
+resources/audio/smack.mp3
+resources/audio/splat.mp3
+resources/audio/splatter.mp3
+resources/audio/swoosh1.mp3
+resources/audio/swoosh2.mp3
+resources/audio/vanish.mp3
+resources/icons/android36.png
+resources/icons/android48.png
+resources/icons/android72.png
+resources/icons/android96.png
+resources/icons/icon512.png
+resources/icons/ios114.png
+resources/icons/ios144.png
+resources/icons/ios57.png
+resources/icons/ios72.png
+resources/splash/HOWTO.md
+spritesheets/resources-images-ui0.png
+spritesheets/resources-images0.png
+spritesheets/resources-images-ui1.png
+spritesheets/resources-images1.png
+spritesheets/resources-images2.png
+index.html
+native-ios.js
+
+FALLBACK:
+
+NETWORK:
+*
